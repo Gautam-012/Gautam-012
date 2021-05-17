@@ -1,7 +1,7 @@
 <br/>
 <label>
 <a href="#">
-  <img width="100%" height="80%" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" height="175px"/>
+  <img width="100%" height="auto" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" height="175px"/>
 </a>
   
 <h1 align="center">
