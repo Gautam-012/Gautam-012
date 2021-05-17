@@ -14,7 +14,7 @@
 ### About Me 🙋‍♂️
 
 - 👀 I’m interested in trying new things.
-- 🌱 I’m currently working **Web Development** as well as **Data Structures and Algorithms.**
+- 🌱 I’m currently working on **Web Development** as well as **Data Structures and Algorithms.**
 - ⚡ I like to exchange ideas with different people.
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 - ⚡ Fun fact **I play games and enjoy while cook.**
