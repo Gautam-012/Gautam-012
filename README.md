@@ -13,7 +13,7 @@
 
 ### About Me 🙋‍♂️
 
-- 👀 I’m interested in trying new things.
+- 👀 I’m interested in learning new things.
 - 🌱 I’m working on **Web Development** as well as **Data Structures and Algorithms.**
 - ⚡ I like to exchange ideas with different people.
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
