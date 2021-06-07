@@ -37,7 +37,7 @@
 </p>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gautam-012.)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gautam-012.Gautam-012)
 <!---
 Gautam-012/Gautam-012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
