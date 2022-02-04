@@ -7,7 +7,7 @@
 <h1 align="center">
   Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Gautam
 </h1>
-<h3 align="center">Learning & Exploring</h3>
+<h3 align="center">Learner & Explorer</h3>
 </label>
 <br/>
 
